@@ -1,4 +1,18 @@
-# auth-blog
+# Auth Blog Demo (Nuxt js)
+-- This is a Authentication based Posts blog dem project, using Nuxt Js, Tailwind css and Vuex store.
+
+-- UI framework which is used in the project: `Tailwind CSS UI` `www.tailwindcss.com`
+
+-- key features of the project:
+1. Global component: (reusable)
+2. auth store
+3. navigation Guard for restrict un authenticate user
+4. Auth based permission Only user who has logged in can only able to create or view the post!
+5. Responsible web and mobile based UI.
+
+## Login Credential:
+-- User can login via email address from the JSON placeholder data or else given below email/ID:
+`Sincere@april.biz`
 
 ## Build Setup
 
